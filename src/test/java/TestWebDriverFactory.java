@@ -4,9 +4,9 @@ import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
-public class TestWebDriveFactory {
+public class TestWebDriverFactory {
 
-    Logger logger = LogManager.getLogger(TestWebDriveFactory.class);
+    Logger logger = LogManager.getLogger(TestWebDriverFactory.class);
 
 
 
